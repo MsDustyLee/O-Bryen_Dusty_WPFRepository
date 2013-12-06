@@ -1,10 +1,11 @@
-
+// JavaScript
 
 Var yearBorn = 1955;
 
+
 /*
-console.log("Hello World")
 console.log(yearBorn);
+console.log("Hello World");
 */
 
 alert(yearBorn);
