@@ -1,6 +1,6 @@
 // JavaScript
 
-Var yearBorn = 1955;
+var yearBorn = 1955;
 
 
 /*
