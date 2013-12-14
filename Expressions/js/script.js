@@ -22,3 +22,10 @@ var a = 2;
 var b = a + 3;
 console.log (b); //this makes the value of b 5
 console.log (a); //the value of a will still be 2
+
+//Example Expressions:
+
+//age example:
+var yearBorn = 1974; //declare value of yearBorn
+var age = 2013 - yearBorn; //this is the actual expression
+console.log (age); //to test and store the value of age
