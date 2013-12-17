@@ -14,6 +14,7 @@ var sparkyAge = 5;
 const dog = 7;
 
 //multiply sparkyAge by dog and assign to dogYears variable
+//sparkys actual age x the constant of 7 for dog years
 var dogYears = sparkyAge * dog;
 
 //Concatenate strings and variables together and assign to answer variable
