@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67bf0f96-71c1-41be-b989-203499f50e55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/msdustylee.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Expressions_worksheet/js/script.js" afterPath="$PROJECT_DIR$/Expressions_worksheet/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="O-Bryen_Dusty_WPFRepository.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +25,19 @@
     <favorites_list name="O-Bryen_Dusty_WPFRepository" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Expressions_worksheet/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="110" column="46" selection-start="3641" selection-end="3641" vertical-scroll-proportion="0.8037383" vertical-offset="1220" max-vertical-offset="1755">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -43,20 +55,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Values and Variables/index.html" />
-        <option value="$PROJECT_DIR$/Variables - defining/index.html" />
-        <option value="$PROJECT_DIR$/Variables - defining/js/script.js" />
-        <option value="$PROJECT_DIR$/Variables - strings boolean/index.html" />
-        <option value="$PROJECT_DIR$/Variables - strings boolean/js/script.js" />
-        <option value="$PROJECT_DIR$/Variables - Arrays/index.html" />
-        <option value="$PROJECT_DIR$/Values and Variables/js/script.js" />
-        <option value="$PROJECT_DIR$/Variables - Arrays/js/script.js" />
-        <option value="$PROJECT_DIR$/AssociatingJS/index.html" />
-        <option value="$PROJECT_DIR$/Values_and_Variables/index.html" />
-        <option value="$PROJECT_DIR$/Values_and_Variables/js/script.js" />
-        <option value="$PROJECT_DIR$/Variables_Arrays/index.html" />
-        <option value="$PROJECT_DIR$/Variables_defining/index.html" />
-        <option value="$PROJECT_DIR$/Variables_strings_boolean/index.html" />
+        <option value="$PROJECT_DIR$/Expressions_Arithmetic_Operators/index.html" />
+        <option value="$PROJECT_DIR$/Expressions_Arithmetic_Operators/js/script.js" />
+        <option value="$PROJECT_DIR$/Expressions_Modulo_Operator/index.html" />
+        <option value="$PROJECT_DIR$/Expressions_Modulo_Operator/js/script.js" />
+        <option value="$PROJECT_DIR$/Order_of_Operations/index.html" />
+        <option value="$PROJECT_DIR$/Order_of_Operations/js/script.js" />
+        <option value="$PROJECT_DIR$/Using_Arrays_as_Expressions/index.html" />
+        <option value="$PROJECT_DIR$/Using_Arrays_as_Expressions/js/script.js" />
+        <option value="$PROJECT_DIR$/Concatenating_Strings/index.html" />
+        <option value="$PROJECT_DIR$/Concatenating_Strings/js/script.js" />
+        <option value="$PROJECT_DIR$/Casting/index.html" />
+        <option value="$PROJECT_DIR$/Casting/js/script.js" />
+        <option value="$PROJECT_DIR$/Assignment_Operators/index.html" />
+        <option value="$PROJECT_DIR$/Assignment_Operators/js/script.js" />
+        <option value="$PROJECT_DIR$/Expressions_worksheet/index.html" />
+        <option value="$PROJECT_DIR$/Expressions_worksheet/js/script.js" />
       </list>
     </option>
   </component>
@@ -92,7 +106,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -126,6 +140,102 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Variables_Arrays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Variables_Arrays" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Expressions_worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Expressions_worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Expressions_Modulo_Operator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Expressions_Modulo_Operator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -210,13 +320,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="22" width="1036" height="671" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33783785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33783785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -243,75 +353,123 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linking_js_to_html/index.html">
+    <entry file="file://$PROJECT_DIR$/Expressions_Modulo_Operator/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="524">
+        <state line="4" column="40" selection-start="119" selection-end="119" vertical-scroll-proportion="0.114503816" vertical-offset="0" max-vertical-offset="524">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AssociatingJS/index.html">
+    <entry file="file://$PROJECT_DIR$/Order_of_Operations/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="22" selection-start="98" selection-end="98" vertical-scroll-proportion="0.14312977" vertical-offset="0" max-vertical-offset="524">
+        <state line="9" column="7" selection-start="141" selection-end="141" vertical-scroll-proportion="0.2576336" vertical-offset="0" max-vertical-offset="524">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Values_and_Variables/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Order_of_Operations/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="5" selection-start="101" selection-end="101" vertical-scroll-proportion="0.27372262" vertical-offset="0" max-vertical-offset="548">
+        <state line="32" column="23" selection-start="734" selection-end="734" vertical-scroll-proportion="0.8211679" vertical-offset="0" max-vertical-offset="555">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Values_and_Variables/index.html">
+    <entry file="file://$PROJECT_DIR$/Using_Arrays_as_Expressions/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="211" selection-end="211" vertical-scroll-proportion="0.28625953" vertical-offset="0" max-vertical-offset="524">
+        <state line="4" column="31" selection-start="108" selection-end="108" vertical-scroll-proportion="0.114503816" vertical-offset="0" max-vertical-offset="524">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concatenating_Strings/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="31" selection-start="102" selection-end="102" vertical-scroll-proportion="0.114503816" vertical-offset="0" max-vertical-offset="524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Concatenating_Strings/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="402" selection-end="402" vertical-scroll-proportion="0.54744524" vertical-offset="0" max-vertical-offset="548">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Casting/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="31" selection-start="132" selection-end="132" vertical-scroll-proportion="0.114503816" vertical-offset="0" max-vertical-offset="524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Casting/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="72" selection-start="948" selection-end="948" vertical-scroll-proportion="0.74766356" vertical-offset="170" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment_Operators/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="31" selection-start="101" selection-end="101" vertical-scroll-proportion="0.114503816" vertical-offset="0" max-vertical-offset="524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment_Operators/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="42" selection-start="143" selection-end="143" vertical-scroll-proportion="0.08211679" vertical-offset="0" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_worksheet/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="31" selection-start="102" selection-end="102" vertical-scroll-proportion="0.114503816" vertical-offset="0" max-vertical-offset="524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_Arithmetic_Operators/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="30" selection-start="205" selection-end="205" vertical-scroll-proportion="0.19160584" vertical-offset="0" max-vertical-offset="548">
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expressions_Modulo_Operator/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="369" selection-end="369" vertical-scroll-proportion="0.4379562" vertical-offset="0" max-vertical-offset="548">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Using_Arrays_as_Expressions/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="19" selection-start="190" selection-end="190" vertical-scroll-proportion="0.16423358" vertical-offset="0" max-vertical-offset="548">
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Variables_Arrays/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="437" selection-end="437" vertical-scroll-proportion="0.36448598" vertical-offset="0" max-vertical-offset="535">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="535">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Variables_Arrays/index.html">
+    <entry file="file://$PROJECT_DIR$/Expressions_worksheet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="7" selection-start="130" selection-end="130" vertical-scroll-proportion="0.28625953" vertical-offset="0" max-vertical-offset="524">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Variables_defining/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="548">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Variables_defining/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="31" selection-start="99" selection-end="99" vertical-scroll-proportion="0.114503816" vertical-offset="0" max-vertical-offset="524">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Variables_strings_boolean/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="548">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Variables_strings_boolean/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="31" selection-start="110" selection-end="110" vertical-scroll-proportion="0.114503816" vertical-offset="0" max-vertical-offset="524">
-          <folding />
+        <state line="110" column="46" selection-start="3641" selection-end="3641" vertical-scroll-proportion="0.8037383" vertical-offset="1220" max-vertical-offset="1755">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
