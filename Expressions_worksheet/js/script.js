@@ -95,7 +95,7 @@ console.log(answer3);
 var weeklyGroc = [380, 153, 130, 210, 76];
 
 //add together the five weeks of groceries and assign to variable totalGroc
-var totalGroc = weeklyGroc[0] + [1] + weeklyGroc[2] + weeklyGroc[3] + weeklyGroc[4];
+var totalGroc = weeklyGroc[0] + weeklyGroc [1] + weeklyGroc[2] + weeklyGroc[3] + weeklyGroc[4];
 console.log(totalGroc); //949
 
 /*Divide the total spent on groceries by 5, for the number of items added t
