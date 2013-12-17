@@ -114,41 +114,50 @@ console.log(answer4);
 
 /*
  Discounts
-
- Calculate the discounted price for an item. Create an expression that will
- calculate the discounted price with and without sales tax.
- (It is acceptable for the result to have more than two digits after
- the decimal. $345.896 for example.)
-
- Givens:
- Original price
- Discount percentage (20% would be 20, for example)
- Description of item
- Sales tax percentage
-
- Result Variables:
- Price of the item with tax
- Price of the item without tax
-
- Result to Print:
- “Your X was originally $X, but after a X% discount, it is now $X
- without tax, and $X with tax.”
  */
 
 //calculate the discounted price with and without tax.
+//declaring as many of the givens first.
 var item = "boots";
 var origPrice = 49.99;
 var discount = .15; // 15%
-var taxPercent = 8.6;
+var discString = "15%";
+var taxPercent = .086; //8.6%
 
+//TOTAL NO TAX:
+//multiplying the original price by the value of 15%
+//assigning the value to the variable amountOff.
 var amountOff = origPrice * discount;
+
+//subtracting the amount off from the original price to get my total without tax.
+//assigning the value to the variable totalNotax.
 var totalNotax = origPrice - amountOff;
 
+//print out the output of the variable totalNotax in order to test it.
 console.log("$" + totalNotax + " new total without tax");
 
-//var totalWithtax =
 
-//var answer4 =
+
+//TOTAL WITH TAX:
+//multiplying the original price by the value of the sales tax to get the total tax to be added
+//assigning the value to the variable taxTotal
+var taxTotal = origPrice * taxPercent;
+
+//multiplying the value of totalNotax; which is the discounted price before taxes
+// to the value of taxTotal to get the discounted price with tax
+//assigning the value to the variable totalWithtax
+var totalWithtax = totalNotax + taxTotal;
+
+//print out the output of the variable totalWithtax in order to test it.
+console.log("$" + totalWithtax + " new total with tax");
+
+//Concatenate strings and variables together and assign to answer5 variable
+var answer5 = "Answer 5 is: Your " + item + " were origninally $" + origPrice + ", but after a "
++ discString + " discount, it is now $" + totalNotax + " without tax, and $" + totalWithtax
+    + " with tax.";
+
+//Print variable answer5 to the console
+console.log(answer5);
 
 
 
