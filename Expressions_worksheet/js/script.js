@@ -85,3 +85,28 @@ console.log("Enough for " + enoughFor + " people, but we only have " + partyGoer
 remainder = (enoughFor - partyGoer) * each;
 answer3 = "Answer 3 is: " + "Sparky got " + remainder + " slices of pizza.";
 console.log(answer3);
+
+
+
+/* Average shopping bill
+*/
+
+//Calculate the total amount spent on groceries over 5 weeks, and figure out the average per month.
+var weeklyGroc = [380, 153, 130, 210, 76];
+
+//add together the five weeks of groceries and assign to variable totalGroc
+var totalGroc = weeklyGroc[0] + [1] + weeklyGroc[2] + weeklyGroc[3] + weeklyGroc[4];
+console.log(totalGroc); //949
+
+/*Divide the total spent on groceries by 5, for the number of items added t
+ogether, to get the average spent per month.  Assign to variable aveGroc.
+*/
+var aveGroc = totalGroc / 5;
+console.log(aveGroc); //189.8
+
+//Concatenate strings and variables together and assign to answer4 variable
+var answer4 =  "Answer 4 is: You have spent a total of $" + totalGroc +
+    " on groceries over 5 weeks. That is an average of $" + aveGroc + " per week.";
+
+//print out the output of the variable answer4
+console.log(answer4);
