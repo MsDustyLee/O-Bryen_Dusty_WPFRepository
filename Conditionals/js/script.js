@@ -1,5 +1,7 @@
 //CONDITIONAL LOGIC
 
+// if(condition){action/s}
+
 var oldEnough = true;
 
 //if the child is old enough, print to the console "you can ride!"
