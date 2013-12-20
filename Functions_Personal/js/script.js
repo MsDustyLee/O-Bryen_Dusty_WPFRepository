@@ -33,12 +33,13 @@ weeklySnack(studentCount, allergy);
 
 function weeklySnack(studentCount, allergy){
     var studentCount = prompt("How many students are in your classroom?");
-    var allergy = prompt("Do any of your students have any dairy allergies? \n YES or NO");
-    if(allergy = yes){snack1;
-    }else{snack2;
-    }
-
     return studentCount;
+    var allergy = prompt("Do any of your students have any dairy allergies? \n YES or NO");
+
+    if(allergy = yes){snack1;
+   }else{snack2;
+    }
+    return allergy;
 
 }
 
@@ -55,7 +56,7 @@ alert("I will be sending along " + snack1 + ".  I hope your students enjoy it.")
 
 
 
-var snack2 = "Still trying to decide."
+var snack2 = "Still trying to decide.";
 var snack2Cost = 1.25 + studentCount;
 var no = "no" || "NO";
 no = false;
