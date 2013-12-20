@@ -27,6 +27,36 @@ need to decide what snacks to get; and calculate how much it
 is going to cost to purchase them.
  */
 
-var studentCount = prompt("How many students are in your classroom?");
-var allergy = prompt("Do any of your students have any food allergies");
 
+
+weeklySnack(studentCount, allergy);
+
+function weeklySnack(studentCount, allergy){
+    var studentCount = prompt("How many students are in your classroom?");
+    var allergy = prompt("Do any of your students have any dairy allergies? \n YES or NO");
+    if(allergy = yes){snack1;
+    }else{snack2;
+    }
+
+    return studentCount;
+
+}
+
+console.log(weeklySnack);
+
+
+var snack1 = "Crackers, Cheese & Sausage Packs";
+var snack1Cost = 2.49 * studentCount;
+var yes = "yes" || "YES";
+yes = true;
+var a = "Yes" == yes;
+console.log("I will be sending along " + snack1 + ".  I hope your students enjoy it.");
+alert("I will be sending along " + snack1 + ".  I hope your students enjoy it.");
+
+
+
+var snack2 = "Still trying to decide."
+var snack2Cost = 1.25 + studentCount;
+var no = "no" || "NO";
+no = false;
+var b = "No" == no;
