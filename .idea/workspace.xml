@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67bf0f96-71c1-41be-b989-203499f50e55" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/Anonymous_Functions/Index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions/Anonymous_Functions/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_Industry/Index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_Personal/Index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_Wacky/Index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_Industry/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_Personal/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Functions_Wacky/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="O-Bryen_Dusty_WPFRepository.iws" />
@@ -28,27 +32,9 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/js/script.js">
+        <entry file="file://$PROJECT_DIR$/Functions_Industry/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="11" selection-start="269" selection-end="531" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="630">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/Variable_Scope/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="12" selection-start="98" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/Arguments_Parameters/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="341" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+            <state line="7" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -57,28 +43,23 @@
         </entry>
       </file>
       <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/Returning_Values/js/script.js">
+        <entry file="file://$PROJECT_DIR$/Functions_Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="19" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions/Function_vs_Procedures/js/script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
-              <folding />
+            <state line="7" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functions/Anonymous_Functions/js/script.js">
+        <entry file="file://$PROJECT_DIR$/Functions_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.72627735" vertical-offset="82" max-vertical-offset="630">
-              <folding />
+            <state line="7" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.19160584" vertical-offset="0" max-vertical-offset="548">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,12 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/Logical Operators/index.html" />
-        <option value="$PROJECT_DIR$/Logical Operators/js/script.js" />
-        <option value="$PROJECT_DIR$/Ternary_Operators/Index.html" />
-        <option value="$PROJECT_DIR$/Ternary_Operators/js/script.js" />
-        <option value="$PROJECT_DIR$/Functions/index.html" />
-        <option value="$PROJECT_DIR$/Functions/js/script.js" />
         <option value="$PROJECT_DIR$/Functions/Variable_Scope/index.html" />
         <option value="$PROJECT_DIR$/Functions/Variable_Scope/js/script.js" />
         <option value="$PROJECT_DIR$/Functions/Arguments_Parameters/index.html" />
@@ -117,6 +92,12 @@
         <option value="$PROJECT_DIR$/Functions/Function_vs_Procedures/js/script.js" />
         <option value="$PROJECT_DIR$/Functions/Anonymous_Functions/Index.html" />
         <option value="$PROJECT_DIR$/Functions/Anonymous_Functions/js/script.js" />
+        <option value="$PROJECT_DIR$/Functions_Industry/Index.html" />
+        <option value="$PROJECT_DIR$/Functions_Personal/Index.html" />
+        <option value="$PROJECT_DIR$/Functions_Wacky/Index.html" />
+        <option value="$PROJECT_DIR$/Functions_Personal/js/script.js" />
+        <option value="$PROJECT_DIR$/Functions_Industry/js/script.js" />
+        <option value="$PROJECT_DIR$/Functions_Wacky/js/script.js" />
       </list>
     </option>
   </component>
@@ -199,7 +180,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Functions" />
+              <option name="myItemId" value="Functions_Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -213,29 +194,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Functions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anonymous_Functions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="O-Bryen_Dusty_WPFRepository" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Functions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Anonymous_Functions" />
+              <option name="myItemId" value="Functions_Wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -373,59 +332,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Logical Operators/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="88" selection-start="1849" selection-end="1849" vertical-scroll-proportion="0.9401869" vertical-offset="667" max-vertical-offset="1275">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Relational_Operators/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="39" selection-start="1190" selection-end="1190" vertical-scroll-proportion="0.94525546" vertical-offset="382" max-vertical-offset="1020">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ternary_Operators/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="28" selection-start="58" selection-end="58" vertical-scroll-proportion="0.085877866" vertical-offset="0" max-vertical-offset="524">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ternary_Operators/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="18" selection-start="730" selection-end="730" vertical-scroll-proportion="0.94525546" vertical-offset="97" max-vertical-offset="705">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="131" selection-end="131" vertical-scroll-proportion="0.2576336" vertical-offset="0" max-vertical-offset="524">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/Variable_Scope/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="136" selection-end="136" vertical-scroll-proportion="0.2576336" vertical-offset="0" max-vertical-offset="524">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="11" selection-start="269" selection-end="531" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="630">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions/Arguments_Parameters/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="7" selection-start="146" selection-end="146" vertical-scroll-proportion="0.2576336" vertical-offset="0" max-vertical-offset="524">
@@ -440,39 +346,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/Variable_Scope/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="12" selection-start="98" selection-end="286" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/Arguments_Parameters/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="341" selection-end="582" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/Returning_Values/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="19" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions/Function_vs_Procedures/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="7" selection-start="144" selection-end="144" vertical-scroll-proportion="0.2576336" vertical-offset="0" max-vertical-offset="524">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions/Function_vs_Procedures/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="318" selection-end="318" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="450">
           <folding />
         </state>
       </provider>
@@ -486,8 +362,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions/Anonymous_Functions/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="0.72627735" vertical-offset="82" max-vertical-offset="630">
+        <state line="30" column="16" selection-start="455" selection-end="455" vertical-scroll-proportion="0.67153287" vertical-offset="82" max-vertical-offset="630">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/Function_vs_Procedures/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="318" selection-end="318" vertical-scroll-proportion="0.6569343" vertical-offset="0" max-vertical-offset="548">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/Returning_Values/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="19" selection-start="325" selection-end="325" vertical-scroll-proportion="0.27372262" vertical-offset="0" max-vertical-offset="548">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/Arguments_Parameters/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="341" selection-end="582" vertical-scroll-proportion="0.4379562" vertical-offset="0" max-vertical-offset="600">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/Variable_Scope/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="12" selection-start="98" selection-end="286" vertical-scroll-proportion="0.2189781" vertical-offset="0" max-vertical-offset="548">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="11" selection-start="269" selection-end="531" vertical-scroll-proportion="0.8631387" vertical-offset="22" max-vertical-offset="630">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Industry/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="144" selection-end="144" vertical-scroll-proportion="0.2576336" vertical-offset="0" max-vertical-offset="524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Personal/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="142" selection-end="142" vertical-scroll-proportion="0.2576336" vertical-offset="0" max-vertical-offset="524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Wacky/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="7" selection-start="139" selection-end="139" vertical-scroll-proportion="0.2576336" vertical-offset="0" max-vertical-offset="524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Industry/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Personal/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="65" selection-end="65" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Wacky/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="62" selection-end="62" vertical-scroll-proportion="0.19160584" vertical-offset="0" max-vertical-offset="548">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
