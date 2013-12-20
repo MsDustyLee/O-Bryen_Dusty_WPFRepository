@@ -28,5 +28,5 @@ is going to cost to purchase them.
  */
 
 var studentCount = prompt("How many students are in your classroom?");
-
+var allergy = prompt("Do any of your students have any food allergies");
 
