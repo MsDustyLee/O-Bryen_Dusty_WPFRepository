@@ -26,3 +26,12 @@ function functionName(){
  var area = width * height;
  console.log(area);
 }
+
+//FUNCTION INVOCATION - Telling the function to run
+//Must be called, or invocated, by name in order to run.  Example:
+
+calcArea();
+calcArea();
+calcArea();
+
+//the function code can be recalled as many times as needed.
